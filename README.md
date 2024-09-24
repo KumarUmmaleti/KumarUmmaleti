@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **[ummaletikumar@gmail.com]**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MtTj_GDjxIrNghTsO8aEJDE4SxE-uu4j/view?usp=sharing)
-
 - ⚡ Fun fact **I think life is funny**
 
 <h3 align="left">Connect with me:</h3>
