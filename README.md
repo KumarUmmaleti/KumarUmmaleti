@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarummaleti&label=Profile%20views&color=0e75b6&style=flat" alt="kumarummaleti" /> </p>
 
-- 👨‍💻 Portfolio - [click here]
+- 👨‍💻 Portfolio - https://portfolio-kumars-projects-33af9420.vercel.app/
 
 - 🌱 I’m currently learning **MERN, Tensorflow,DSA**
 
