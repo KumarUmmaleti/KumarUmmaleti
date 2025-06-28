@@ -5,8 +5,6 @@
 
 - 👨‍💻 Portfolio - https://portfolio-gules-nine-73.vercel.app/
 
-- 🌱 I’m currently learning **MERN, Tensorflow,DSA**
-
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **[ummaletikumar@gmail.com]**
